@@ -1,4 +1,4 @@
-require_relative '../lib/trader'
+require_relative '../lib/darktrader'
 ​
 describe "get_symbols method" do
   it "should return an array with more than 2000 elements" do
